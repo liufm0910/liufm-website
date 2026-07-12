@@ -9,153 +9,91 @@ name:"刘丰鸣",
 title:"学生 | 金融方向 | 波兰留学",
 
 
+
 "about-title":"关于我",
 
 about:
-"你好，我是刘丰鸣，来自中国。目前正在准备前往波兰华沙大学学习。我对金融、经济以及国际商业领域有浓厚兴趣，同时喜欢探索不同国家的文化和城市。",
+"大家好，我叫刘丰鸣，来自中国四川省成都市。\n\n我的家乡最有名的是大熊猫和四川美食，每年都有很多游客来到成都旅游，所以我从小就接触到了来自不同地方的人和文化，这也让我越来越喜欢了解不同国家。\n\n我刚刚结束高中生活，现在正在为大学学习做准备。\n\n我平时最大的兴趣爱好是旅游和打羽毛球。虽然我的羽毛球技术不是特别专业，但是我很喜欢这项运动，因为它可以让我保持健康，也能让我放松自己。\n\n我最喜欢的科目是语文和地理。语文提高了我的表达能力，而地理让我了解了世界不同国家的自然环境、历史和文化。\n\n我认为自己是一个愿意学习、遇到困难不会轻易放弃的人。我希望来到波兰以后，不仅能够学习专业知识，也能够提高英语能力，认识来自不同国家的朋友，并不断成长。",
+
+
+
+
 
 
 "education-title":"教育经历",
 
 education:
-"华沙大学 University of Warsaw\n2026年至今\n预科课程 Foundation Program\n未来方向：金融 Finance",
+"成都市成华区嘉祥外国语学校\n2023 - 2026\n高中\n\n华沙大学 University of Warsaw\n2026 - 至今\nFoundation Program（预科课程）\n\n未来学习方向：金融 Finance",
 
 
 
-"interest-title":"兴趣领域",
+
+
+
+"interest-title":"兴趣爱好",
 
 interest:[
+
+"旅游与探索不同文化",
+
+"羽毛球运动",
+
 "金融与经济",
-"国际商业",
-"欧洲文化",
-"旅行与城市探索",
-"科技"
+
+"欧洲历史与文化",
+
+"科技与数字化"
+
 ],
 
 
-"goal-title":"个人目标",
 
-goal:
-"希望通过国际化学习环境提升专业能力、语言能力以及跨文化交流能力，未来在金融领域继续发展。",
 
 
-"contact-title":"联系方式",
+"poland-title":"为什么选择波兰和华沙",
 
-contact:
-"邮箱：fengming@liufm.top"
+poland:
+"我选择波兰，是因为我认为波兰是一个历史文化丰富，同时拥有优质教育资源的国家。\n\n波兰位于欧洲中心，交通便利，这让我未来有机会了解更多欧洲国家的文化。\n\n华沙是波兰首都，也是政治、经济和教育中心。很多国际公司在这里设有办公室，因此华沙能够提供更多学习和未来发展的机会。\n\n我也了解过克拉科夫和格但斯克。克拉科夫拥有悠久历史和许多历史建筑，是波兰重要文化中心。格但斯克是一座著名港口城市，以波罗的海、海岸线和琥珀文化闻名。\n\n最终，我选择华沙大学，因为它能够提供更加国际化的学习环境。",
 
 
-},
 
 
 
-en:{
 
+"foundation-title":"为什么先读预科",
 
-name:"Liu Fengming",
+foundation:
+"我认为预科课程对我来说非常重要。\n\n虽然我学习英语很多年，但是中国高中英语教育主要关注考试、语法和写作，学生很少有机会进行真实英语交流。\n\n因此，我希望通过Foundation Programme提高英语听说读写能力，特别是学术英语和课堂交流能力。\n\n同时，预科课程能够帮助我适应英文学习环境，并为未来本科阶段做好准备。",
 
-title:"Student | Finance | Study in Poland",
 
 
-"about-title":"About Me",
 
-about:
-"Hello, I am Liu Fengming from China. I am preparing for my academic journey at the University of Warsaw. I am interested in finance, economics and international business. I also enjoy exploring different cultures and cities.",
 
+"finance-title":"为什么选择金融专业",
 
-"education-title":"Education",
+finance:
+"我选择金融专业，是因为我认为金融在现代社会中越来越重要。\n\n随着经济全球化的发展，越来越多企业需要金融方面的人才。\n\n学习金融不仅能够帮助我理解经济运行方式，也能够培养我的数据分析能力和逻辑思维能力。\n\n未来，我希望进入国际化企业工作，因此金融专业能够为我的职业发展提供更多机会。",
 
-education:
-"University of Warsaw\n2026 - Present\nFoundation Program\nFuture Major: Finance",
 
 
-"interest-title":"Interests",
 
-interest:[
-"Finance and Economics",
-"International Business",
-"European Culture",
-"Travel and City Exploration",
-"Technology"
-],
 
 
-"goal-title":"Goals",
+"difficulty-title":"学习过程中遇到的困难",
 
-goal:
-"I hope to improve my professional knowledge, language skills and cross-cultural communication abilities through international education.",
+difficulty:
+"我遇到最大的困难是英语口语。\n\n在中国，高中英语课程主要为了考试，因此老师更加重视阅读、语法和写作，而学生缺少实际交流机会。\n\n为了提高英语口语，我主动寻找练习机会，例如观看英语视频、英语新闻和在线课程。\n\n虽然我还有提升空间，但是现在我更加有信心使用英语交流。",
 
 
-"contact-title":"Contact",
 
-contact:
-"Email: fengming@liufm.top"
 
 
-}
 
+"challenge-title":"来到欧洲后的挑战",
 
-};
+challenge:
+"我认为来到欧洲以后主要有三个挑战。\n\n第一是语言。我会积极参加课堂讨论，多和国际学生交流，提高英语能力。\n\n第二是文化差异。我会保持开放心态，尊重不同文化，并积极参加学校活动。\n\n第三是独立生活。我会合理安排学习、生活和时间管理，遇到困难时主动寻求帮助。\n\n我相信通过努力，我能够逐渐适应欧洲的学习和生活环境。",
+  "challenge-title":"来到欧洲后的挑战",
 
-
-
-function changeLanguage(lang){
-
-
-document.getElementById("name").innerText =
-content[lang].name;
-
-
-document.getElementById("title").innerText =
-content[lang].title;
-
-
-document.getElementById("about-title").innerText =
-content[lang]["about-title"];
-
-
-document.getElementById("about").innerText =
-content[lang].about;
-
-
-document.getElementById("education-title").innerText =
-content[lang]["education-title"];
-
-
-document.getElementById("education").innerText =
-content[lang].education;
-
-
-document.getElementById("interest-title").innerText =
-content[lang]["interest-title"];
-
-
-document.getElementById("interest").innerHTML =
-content[lang].interest
-.map(item=>`<li>${item}</li>`)
-.join("");
-
-
-
-document.getElementById("goal-title").innerText =
-content[lang]["goal-title"];
-
-
-document.getElementById("goal").innerText =
-content[lang].goal;
-
-
-
-document.getElementById("contact-title").innerText =
-content[lang]["contact-title"];
-
-
-document.getElementById("contact").innerText =
-content[lang].contact;
-
-
-}
-
-
-
-changeLanguage("zh");
+challenge:
+"我认为来到欧洲以后主要有三个挑战。\n\n第一是语言。我会积极参加课堂讨论，多和国际学生交流，提高英语能力。\n\n第二是文化差异。我会保持开放心态，尊重不同文化，并积极参加学校活动。\n\n第三是独立生活。我会合理安排学习、生活和时间管理，遇到困难时主动寻求帮助。\n\n我相信通过努力，我能够逐渐适应欧洲的学习和生活环境。",
