@@ -1,71 +1,348 @@
+*{
+
+box-sizing:border-box;
+
+}
+
+
+
 body{
 
+
 font-family:
+
 "PingFang SC",
 "Microsoft YaHei",
 Arial,
 sans-serif;
 
-max-width:900px;
+
+max-width:1000px;
+
 
 margin:auto;
 
-padding:40px;
+
+padding:30px 40px;
+
 
 line-height:1.8;
 
+
 color:#333;
+
+
+background:#ffffff;
+
 
 }
 
 
-.language{
+
+
+
+/* 语言按钮 */
+
+
+.language-switch{
+
 
 text-align:right;
 
+
 margin-bottom:20px;
+
 
 }
 
 
-button{
 
-padding:8px 15px;
+.language-switch button{
 
-margin-left:5px;
+
+padding:8px 16px;
+
+
+margin-left:8px;
+
+
+border:1px solid #ccc;
+
+
+background:white;
+
+
+border-radius:6px;
+
 
 cursor:pointer;
 
+
+font-size:14px;
+
+
 }
+
+
+
+.language-switch button:hover{
+
+
+background:#f2f2f2;
+
+
+}
+
+
+
+
+
+
+
+/* 首页 */
 
 
 header{
 
+
 text-align:center;
 
-margin-bottom:50px;
+
+padding:50px 0;
+
 
 }
+
+
+
+
+.profile{
+
+
+width:160px;
+
+
+height:160px;
+
+
+border-radius:50%;
+
+
+object-fit:cover;
+
+
+margin-bottom:20px;
+
+
+}
+
+
+
 
 
 h1{
 
+
 font-size:45px;
 
+
+margin:10px 0;
+
+
 }
+
+
+
+header p{
+
+
+font-size:20px;
+
+
+color:#666;
+
+
+}
+
+
+
+
+
+
+/* 内容区域 */
 
 
 section{
 
-margin-top:40px;
+
+margin-top:45px;
+
 
 }
 
 
+
+
 h2{
 
-border-bottom:1px solid #ddd;
 
-padding-bottom:10px;
+font-size:28px;
+
+
+border-bottom:2px solid #ddd;
+
+
+padding-bottom:8px;
+
+
+margin-bottom:20px;
+
+
+}
+
+
+
+
+
+
+p{
+
+
+font-size:17px;
+
+
+white-space:pre-line;
+
+
+}
+
+
+
+
+
+.card{
+
+
+background:#f7f7f7;
+
+
+padding:25px;
+
+
+border-radius:12px;
+
+
+}
+
+
+
+
+
+
+ul{
+
+
+padding-left:25px;
+
+
+}
+
+
+
+li{
+
+
+margin:8px 0;
+
+
+}
+
+
+
+
+
+
+/* 页脚 */
+
+
+footer{
+
+
+text-align:center;
+
+
+margin-top:70px;
+
+
+color:#777;
+
+
+font-size:14px;
+
+
+}
+
+
+
+
+
+
+/* 手机端 */
+
+
+@media(max-width:700px){
+
+
+body{
+
+
+padding:20px;
+
+
+}
+
+
+
+h1{
+
+
+font-size:35px;
+
+
+}
+
+
+
+h2{
+
+
+font-size:24px;
+
+
+}
+
+
+
+.profile{
+
+
+width:120px;
+
+
+height:120px;
+
+
+}
+
+
+
+p{
+
+
+font-size:16px;
+
+
+}
+
 
 }
