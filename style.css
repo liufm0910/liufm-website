@@ -1,4 +1,4 @@
-body {
+body{
 
 font-family:
 "PingFang SC",
@@ -19,7 +19,27 @@ color:#333;
 }
 
 
-header {
+.language{
+
+text-align:right;
+
+margin-bottom:20px;
+
+}
+
+
+button{
+
+padding:8px 15px;
+
+margin-left:5px;
+
+cursor:pointer;
+
+}
+
+
+header{
 
 text-align:center;
 
@@ -28,35 +48,24 @@ margin-bottom:50px;
 }
 
 
-h1 {
+h1{
 
 font-size:45px;
 
 }
 
 
-h2 {
-
-border-bottom:1px solid #ddd;
-
-padding-bottom:10px;
-
-}
-
-
-section {
+section{
 
 margin-top:40px;
 
 }
 
 
-footer {
+h2{
 
-margin-top:60px;
+border-bottom:1px solid #ddd;
 
-text-align:center;
-
-font-size:14px;
+padding-bottom:10px;
 
 }
