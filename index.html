@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="zh-CN">
 
 <head>
@@ -7,7 +8,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>刘丰鸣 | 个人主页</title>
+<title>Liu Fengming | Personal Website</title>
 
 <link rel="stylesheet" href="style.css">
 
@@ -17,108 +18,83 @@
 <body>
 
 
-<header>
+<!-- 顶部导航 -->
 
-<h1>刘丰鸣</h1>
+<nav class="navbar">
 
-<p>
-学生 | 金融方向 | 波兰留学
-</p>
+
+<div class="logo">
+
+Liu Fengming
+
+</div>
+
+
+<div class="nav-links">
+
+
+<a href="#home" id="nav-home"></a>
+
+<a href="#experience" id="nav-experience"></a>
+
+<a href="#blog" id="nav-blog"></a>
+
+<a href="#contact" id="nav-contact"></a>
+
+
+</div>
+
+
+
+<div class="language">
+
+
+<button onclick="changeLanguage('zh')">
+中文
+</button>
+
+
+<button onclick="changeLanguage('en')">
+English
+</button>
+
+
+</div>
+
+
+</nav>
+
+
+
+
+<!-- 首页 -->
+
+
+<header id="home">
+
+
+<h1 id="name"></h1>
+
+
+<p id="title"></p>
+
 
 </header>
 
 
 
-<section>
-
-<h2>关于我</h2>
-
-<p>
-
-你好，我是刘丰鸣，来自中国。
-
-目前正在准备前往波兰华沙大学开启新的学习阶段。
-
-我对金融、经济以及国际商业领域有浓厚兴趣，当然，还有lvyou
-
-同时，我喜欢探索不同国家的文化，了解不同城市的发展历史。
-
-</p>
-
-</section>
 
 
+<!-- 关于我 -->
 
 
 <section>
 
-<h2>教育经历</h2>
+
+<h2 id="about-title"></h2>
 
 
-<h3>华沙大学 University of Warsaw</h3>
-
-<p>
-
-2026 - 至今
-
-<br>
-
-预科课程 Foundation Program
-
-<br>
-
-未来学习方向：金融 Finance
-
-</p>
-
-
-</section>
-
-
-
-
-<section>
-
-<h2>兴趣领域</h2>
-
-
-<ul>
-
-<li>金融与经济</li>
-
-<li>国际商业</li>
-
-<li>欧洲文化与历史</li>
-
-<li>旅行与城市探索</li>
-
-<li>科技与数字化</li>
-
-
-</ul>
-
-
-</section>
-
-
-
-
-<section>
-
-<h2>个人目标</h2>
-
-
-<p>
-
-希望通过国际化学习环境，
-
-提升自己的专业能力、语言能力以及跨文化交流能力。
-
-未来希望在金融领域继续深造，
-
-并积累国际化学习和工作经验。
-
-</p>
+<p id="about"></p>
 
 
 </section>
@@ -127,28 +103,115 @@
 
 
 
-<section>
-
-<h2>联系方式</h2>
+<!-- 经历 -->
 
 
-<p>
+<section id="experience">
 
-邮箱：
 
-<br>
+<h2 id="education-title"></h2>
 
-fengming@liufm.top
 
-</p>
+<div class="card">
+
+
+<p id="education"></p>
+
+
+</div>
 
 
 </section>
+
+
+
+
+
+
+<!-- 兴趣 -->
+
+
+<section>
+
+
+<h2 id="interest-title"></h2>
+
+
+<ul id="interest"></ul>
+
+
+</section>
+
+
+
+
+
+
+
+<!-- 目标 -->
+
+
+<section>
+
+
+<h2 id="goal-title"></h2>
+
+
+<p id="goal"></p>
+
+
+</section>
+
+
+
+
+
+
+
+
+<!-- 博客 -->
+
+
+<section id="blog">
+
+
+<h2 id="blog-title"></h2>
+
+
+<p id="blog-content"></p>
+
+
+</section>
+
+
+
+
+
+
+
+
+<!-- 联系 -->
+
+
+<section id="contact">
+
+
+<h2 id="contact-title"></h2>
+
+
+<p id="contact-content"></p>
+
+
+</section>
+
+
+
 
 
 
 
 <footer>
+
 
 <p>
 
@@ -156,8 +219,13 @@ fengming@liufm.top
 
 </p>
 
+
 </footer>
 
+
+
+
+<script src="language.js"></script>
 
 
 </body>
